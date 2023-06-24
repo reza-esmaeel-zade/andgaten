@@ -27,3 +27,5 @@ architecture behavioral of andgate_n is
 		end process;
 
 end behavioral;
+
+
